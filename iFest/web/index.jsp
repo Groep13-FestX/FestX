@@ -53,7 +53,7 @@
         <div class="menu">
             <div id="menuRuimte">
             <a href="festivals.jsp"><div class="block">Festivals</div></a>
-            <a href="groepen.jsp"><div class="block">Groepen</div></a>
+            <a href="groepen.jsp"><div class="block">Groepjes</div></a>
             <a href="tickets.jsp"><div class="block">Tickets</div></a>
             </div>
         </div>
