@@ -58,7 +58,7 @@
             </div>
         </div>
         <div id="form">
-        <form action="" method="get">
+        <form action="verwerk.jsp" method="get">
         <input type="text" name="invoer" id="invoer" required placeholder="zoekterm...."/>
         <input type="submit" name="zoeken" id="zoeken" value="Zoeken"/>
         </form>
