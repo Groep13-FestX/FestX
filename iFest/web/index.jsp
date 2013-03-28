@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Fest-X</title>
+        <title>Fest-X-HOME</title>
         <link rel="stylesheet" type="text/css" href="stijl.css">
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
         <script src="jquery.js" type="text/javascript"></script>
@@ -38,7 +38,7 @@
             
         </div>
         <div class="inhoud">
-        <img id="logohome" src="images/FestX.png" alt="logo" title="logo"/>
+            <a href="index.jsp"><img id="logohome" src="images/FestX.png" alt="logo" title="logo"/></a>
         <div class="login">
             
             <input type="button" name="aanmelden" id="aanmelden" value="aanmelden"/><br>
@@ -52,9 +52,9 @@
         </div>
         <div class="menu">
             <div id="menuRuimte">
-            <div class="block">Festival</div>
-            <div class="block">Groepen</div>
-            <div class="block">Tickets</div>
+            <a href="festivals.jsp"><div class="block">Festivals</div></a>
+            <a href="groepen.jsp"><div class="block">Groepen</div></a>
+            <a href="tickets.jsp"><div class="block">Tickets</div></a>
             </div>
         </div>
         <div id="form">
